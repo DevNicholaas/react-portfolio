@@ -13,7 +13,7 @@ export default function() {
       }}
     />
     <div classname="right-column">
-      Bio goes here
+      My name is Nicholaas Miller. I was born and raised in Oakand, California and I have worked very hard to be where I am. I found my interest in coding when I was in high school. Then when I was hired for my first job as a Recraetion Aide for the City of Oakland I began my coding journey. For a short time I learned on my own then I signed up to go through Bottega University's Fullstack Development Program. During my time at Bottega I was prmoted to a Recreation Specialist and began teaching youth how to code. I also improved my own skills as well and built several applications. I worked closely with mentors and teachers to make sure I understood the complexities of everything I worked on.
     </div>
 
    </div>
